@@ -9,4 +9,3 @@ enzoferrario/enzoferrario is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-Based on the most recent usability reports, I believe that a few changes must be implemented in the next stages of the website. Firstly, a few sizing concerns were brought up, either by myself of by the testers. It is only now where I see that perhaps sizing would make the website itself look cleaner. Next, the color scheme could be changed to be a bit easier on the eyes. One tester discussed his appreciation of pastel colors, but on the website it was more than necessary. A smaller, easier detail to fix is that of the rounding of the tax and total cost. A few other changes here and there, but overall those were the 3 main things I found that could be fixed based on the reports.
